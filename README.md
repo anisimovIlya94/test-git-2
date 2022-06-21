@@ -8,5 +8,5 @@
 8. git reset --hard - вернет файлы в изначальное (с последнего сохранения) положение
 
 Создание веток:
-1.git branch - показывает все ветки, создать новую : git branch *your branch*
-2.git checkout *your branch* - переключиться на другую ветку
+1. git branch - показывает все ветки, создать новую : git branch *your branch*
+2. git checkout *your branch* - переключиться на другую ветку
