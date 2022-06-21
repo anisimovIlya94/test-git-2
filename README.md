@@ -14,3 +14,5 @@
 3. git pull [rep_link] [branch_name] - добавление в среду разработки кода из ветки github
 4. git branch -d [branch_name] - удалить ветку локально(в среде разработки)
 - с помощью terminal
+1. создать новую ветку : git branch [*your branch*]
+2. переключиться на главную ветку и выполнить команду git merge [*your added branch*]
