@@ -8,9 +8,9 @@
 8. git reset --hard - вернет файлы в изначальное (с последнего сохранения) положение
 
 Создание веток:
-с помощью pull requests
+- с помощью pull requests
 1. git branch - показывает все ветки, создать новую : git branch [*your branch*]
 2. git checkout [*your branch*] - переключиться на другую ветку
 3. git pull [rep_link] [branch_name] - добавление в среду разработки кода из ветки github
 4. git branch -d [branch_name] - удалить ветку локально(в среде разработки)
-с помощью terminal
+- с помощью terminal
